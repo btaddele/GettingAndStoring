@@ -1,0 +1,1 @@
+"storing values using scanner" 
